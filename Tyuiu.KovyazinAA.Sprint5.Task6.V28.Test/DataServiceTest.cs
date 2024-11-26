@@ -24,4 +24,5 @@ namespace Tyuiu.KovyazinAA.Sprint5.Task6.V28.Test
             int wait = 3;
             Assert.AreEqual(wait, res);
         }
+    }
 }
